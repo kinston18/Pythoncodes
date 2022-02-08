@@ -29,7 +29,7 @@ if age >= 12:
 
            ans = input("You notice a house and a river. Which do you go to(river/house)? ")
            if ans == "house":
-               print("You go the house and are greated by the owner......He doesn't like you and you loose 5 health")
+               print("You go the house and are greeted by the owner......He doesn't like you and you loose 5 health")
                health -= 5
                print("Now you have", health, "health remaining")
 
